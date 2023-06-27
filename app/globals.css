@@ -27,5 +27,8 @@ body {
 }
 
 .test {
-color: green;
+color: blue;
+}
+.test0 {
+color: red;
 }
